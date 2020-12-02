@@ -1,19 +1,60 @@
-body {color: white;
+body {
+color: white;
 background-color:black;
 text-align: center;
+max-width: fit-content;
 }
 
 
-}
+    
 
+}
 h1 {
 font-family: Verdana;
 font-weight: normal;
 font-size: 50px;
-color: red;
 text-align: center;
 }
 
-a {color:aquamarine;
-    font-size: 16px;
+h2{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 300;
+font-size: 42px;
+}
+
+.link {
+text-align:center;
+}
+a {
+color:aquamarine;
+font-size: 16px;
+
+}
+
+p {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 21px;
+color: gray;
+}
+
+footer {
+text-align: right;
+color: gray;
+margin: 30px 5px;
+}
+
+.camp img {
+margin:0 auto;
+height: auto;
+display: block;
+width: 70%;
+
+}
+
+.phone img{
+margin:20px auto;
+height: auto;
+display: block;
+width:10%;
+height: 10%;
 }
